@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=23&duration=4500&color=000000&center=yanl%C4%B1%C5%9F&vCenter=yanl%C4%B1%C5%9F&multiline=true&width=600&height=140&lines=I'm+%C3%9Cmit+DAYANGA%C3%87;Technologies+I'm+Interested+In;HTML%2CCSS%2CJavaScript%2CReact%2CAngular%2CVue;PHP%2CJAVA%2CC%23%2CPython">
 </p>
 
-
+![](https://komarev.com/ghpvc/?username=umitdayangac&style=flat-square)
 <!--##  👋 Hi, I’m @umitdayangac-->
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
