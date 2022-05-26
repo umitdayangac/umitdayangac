@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6000&color=2EF700&center=do%C4%9Fru&vCenter=yanl%C4%B1%C5%9F&multiline=true&height=113&lines=I'm+%C3%9Cmit+DAYANGA%C3%87;Technologies+I'm+Interested+In;HTML%2CCSS%2CJavaScript%2CReact%2CAngular%2C;Vue%2CPHP%2CJAVA%2CC%23%2CPython)](https://git.io/typing-svg)
+
+
 <!--##  👋 Hi, I’m @umitdayangac-->
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
